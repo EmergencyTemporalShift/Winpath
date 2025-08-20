@@ -1,7 +1,8 @@
+#!/bin/bash
+
 # AI Disclosure: This script was created with the assistance of the large language model Gemini
 # Please review it before doing anything mission critical
 
-#!/bin/bash
 
 # This script converts a Windows-style path with a drive letter
 # to a standard Linux path. It's useful for paths that comes from
